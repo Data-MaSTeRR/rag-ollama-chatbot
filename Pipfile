@@ -1,0 +1,24 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+langchain = "*"
+langchain-community = "*"
+langchain-core = "*"
+transformers = "*"
+sentence-transformers = "*"
+huggingface-hub = "*"
+chroma = "*"
+pypdf = "*"
+chromadb = "*"
+langchain-ollama = "*"
+langchain-huggingface = "*"
+torch = "*"
+streamlit = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
