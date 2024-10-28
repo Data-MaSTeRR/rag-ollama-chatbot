@@ -5,7 +5,7 @@ project_root/
 │   └── ...
 │
 ├── chroma_db/                      # Chroma 벡터 DB가 저장되는 디렉토리
-│   ├── index                      # 벡터 검색 인덱스.gitignore
+│   ├── index                       # 벡터 검색 인덱스.gitignore
 │   └── ...
 │
 ├── main.py                         # 메인 실행 파일
