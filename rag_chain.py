@@ -5,7 +5,7 @@ from langchain.prompts import ChatPromptTemplate
 from rerank import rerank_documents
 
 # LLM (예: Llama 모델 설정)
-llm = ChatOllama(model="qwen2.5", temperature=0)
+llm = ChatOllama(model="qwen2.5:1.5b", temperature=0)
 
 
 # 문서 리스트를 텍스트로 변환
