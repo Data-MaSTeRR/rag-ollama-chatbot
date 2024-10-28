@@ -1,9 +1,8 @@
 project_root/
 │
 ├── pdf_data/                       # PDF 파일들을 저장하는 디렉토리
-│   ├── 2018 의료 분쟁조정 사례집.pdf
-│   ├── 2018 서비스·집단 분쟁조정 사례집.pdf
-│   └── 2018 물품 분쟁조정 사례집.pdf
+│   ├── .pdf
+│   └── ...
 │
 ├── chroma_db/                      # Chroma 벡터 DB가 저장되는 디렉토리
 │   ├── index                      # 벡터 검색 인덱스.gitignore
