@@ -1,4 +1,4 @@
-project_root/
+rag-ollama-chatbot/
 │
 ├── pdf_data/                       # PDF 파일들을 저장하는 디렉토리
 │   ├── .pdf
