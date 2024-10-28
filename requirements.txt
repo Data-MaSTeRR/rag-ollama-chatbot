@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain_community
+langchain_huggingface
+langchain_ollama
+transformers
+sentence-transformers
+torch
+chroma
+huggingface_hub
+
