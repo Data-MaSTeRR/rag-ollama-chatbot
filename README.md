@@ -15,7 +15,7 @@ pip install -r requirements.txt
 
 ## 실행
 ```bash
-ollama pull qwen2.5:1.5b
 ollama serve
+ollama pull qwen2.5:1.5b
 streamlit run app.py
 ``` 
